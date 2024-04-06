@@ -1,2 +1,2 @@
 # Juno
-An interactive character touch game that teaches healthy habits to the people. 
+An interactive character touch game that teaches healthy habits.
